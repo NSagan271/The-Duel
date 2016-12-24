@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Duel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="retry">Retry?</string>
+    <string name="instr">Welcome to the duel. Each turn, you can shoot, block, or reload. Your gun holds 3 bullets.</string>
+    <string name="go">GO</string>
+    <string name="next">Next</string>
+    <string name="you">YOU</string>
+    <string name="them">OPPONENT</string>
+    <string name="over">GAME OVER</string>
+    <string name="shoot">SHOOT</string>
+    <string name="block">BLOCK</string>
+    <string name="load">LOAD</string>
+    <string name="bullets">Bullets: 0</string>
+</resources>
